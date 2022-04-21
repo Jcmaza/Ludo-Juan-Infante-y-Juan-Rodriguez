@@ -1,1 +1,1 @@
-La implementación que nosotros hemos introducido es la de la interfaz gráfica, la cual apenas está en su estado más básico de desarrollo pero se puede observar sin problemas simplemente clonando el repositorio y corriendo el archivo "visual.py"
+La implementación que nosotros hemos introducido es la de la interfaz gráfica, la cual apenas está en su estado más básico de desarrollo pero se puede observar sin problemas simplemente clonando el repositorio y corriendo el archivo "Visual.py"
